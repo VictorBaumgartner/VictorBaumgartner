@@ -133,16 +133,3 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 - [Instagram](https://www.instagram.com/vic.bgd)
 
 ---
-
-## 📌 Pinned Repositories
-
-- [Stratos2](https://github.com/VictorBaumgartner/Stratos2)  
-- [Geolift SEO Master](https://github.com/VictorBaumgartner/geolift_seo_master)  
-- [Multithreading Crawl4AI](https://github.com/VictorBaumgartner/multithreading_crawl4ai)  
-- [Menu Extractor](https://github.com/VictorBaumgartner/menu-extractor)  
-- [QA Loop AI Services](https://github.com/VictorBaumgartner/qa_loop_ai_services)  
-- [Get Business Details From Places](https://github.com/VictorBaumgartner/getBusinessDetailsFromPlaces)  
-- [Authentic Text](https://github.com/VictorBaumgartner/authentic_text)  
-- [Yebow](https://github.com/VictorBaumgartner/Yebow)  
-- [LexExtract](https://github.com/VictorBaumgartner/LexExtract)  
-- [MapsFindr](https://github.com/VictorBaumgartner/MapsFindr)
