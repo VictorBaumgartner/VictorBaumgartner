@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- Profile Banner -->
-![Victor Baumgartner Banner](https://example.com/your-banner-image.jpg)
+<p align="center">
+  <img src="https://i.imgur.com/mt6d3Fz.jpeg" alt="Funny BAYC x AI Banner" width="100%" />
+</p>
 
 # 👋 Hi, I'm Victor Baumgartner (BAYC)
 
@@ -110,8 +112,14 @@ I'm a Junior AI Engineer with a strong foundation in Python, TypeScript, and mod
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorBaumgartner&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBaumgartner&layout=compact&theme=radical)
-![Contribution Snake](https://raw.githubusercontent.com/VictorBaumgartner/VictorBaumgartner/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=VictorBaumgartner&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=VictorBaumgartner&theme=cobalt&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBaumgartner&layout=compact&theme=cobalt&hide_border=false)
 
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ## 🏆 Achievements & Activities
