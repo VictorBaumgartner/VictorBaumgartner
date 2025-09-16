@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.im![bayc_chill_sunset](https://github.com/user-attachments/assets/d115cc7b-3c46-4511-b3ff-ecb01129ed3c)
-gur.com/mt6d3Fz.jpeg" alt="Funny BAYC x AI Banner" width="100%" />
+  <img src="assets/bayc_chill_sunset.png" alt="Funny BAYC x AI Banner" width="100%" />
 </p>
+![bayc_chill_sunset](https://github.com/user-attachments/assets/dbf0fab4-3a5a-41a8-bd5d-a1ab04a6c7d6)
 
 # 👋 Hi, I'm Victor Baumgartner (BAYC)
 
