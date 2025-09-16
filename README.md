@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 **AI Engineer | Junior Developer | Passionate About Machine Learning & Automation**
 
 📍 Paris, France  
-🔗 [LinkedIn](https://www.linkedin.com/in/victor-bongard-2b9599334) | [Instagram](https://www.instagram.com/vic.bgd) | [Website](https://victorbaumgartner.com) | 📧 victorbongard@hotmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/victor-bongard-2b9599334) | [Instagram](https://www.instagram.com/vic.bgd) | https://inferentia.io/ | https://promptifytools.com/| 📧 victorbongard@hotmail.com
 
 ---
 
