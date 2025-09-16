@@ -116,7 +116,6 @@ I'm a Junior AI Engineer with a strong foundation in Python, TypeScript, and mod
 ## 📈 GitHub Stats
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorBaumgartner&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBaumgartner&layout=compact&theme=radical)
 ![](https://nirzak-streak-stats.vercel.app/?user=VictorBaumgartner&theme=cobalt&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBaumgartner&layout=compact&theme=cobalt&hide_border=false)
 
