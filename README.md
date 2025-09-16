@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="assets/bayc_chill_sunset.jpg" alt="Funny BAYC x AI Banner" width="100%" />
+  <img src="assets/bayc_chill_sunset.jpg" alt="Funny BAYC x AI Banner" width="100%" height="150px" style="object-fit: cover;" />
 </p>
 
 # 👋 Hi, I'm Victor Baumgartner (BAYC)
@@ -96,19 +96,18 @@ I'm a Junior AI Engineer with a strong foundation in Python, TypeScript, and mod
 
 | Project / Website | Description | Tech / Stack |
 |-----------------|-------------|--------------|
-| [Stratos2](https://github.com/VictorBaumgartner/Stratos2) | Talent Tech Hiring feature | Next.js, React, TypeScript | 
-| [Geolift SEO Master](https://github.com/VictorBaumgartner/geolift_seo_master) | SEO optimization tool using geolocation | Python, FastAPI |
-| [Multithreading Crawl4AI](https://github.com/VictorBaumgartner/multithreading_crawl4ai) | Web crawler extracting markdown | Python, FastAPI |
-| [Menu Extractor](https://github.com/VictorBaumgartner/menu-extractor) | OCR + LLM menu extraction tool | Python, Gradio | 
-| [QA Loop AI Services](https://github.com/VictorBaumgartner/qa_loop_ai_services) | AI QA automation | Python, FastAPI | 
-| [Get Business Details From Places](https://github.com/VictorBaumgartner/getBusinessDetailsFromPlaces) | Business info extraction | Python | 
-| [Authentic Text](https://github.com/VictorBaumgartner/authentic_text) | Humanizes text | Python | 
-| [Yebow](https://github.com/VictorBaumgartner/Yebow) | Luxurious e-commerce project | TypeScript, React | 
-| [LexExtract](https://github.com/VictorBaumgartner/LexExtract) | Auto-completion for legal docs | Python | 
-| [MapsFindr](https://github.com/VictorBaumgartner/MapsFindr) | Location info via Google Maps | Python, Gradio | 
-| [**Inferentia**](https://inferentia.io/) | **Promoting AI/ML API provider website (fastest, best model variety, affiliate links!)** | HTML, CSS, JS | 
-| [**Promptify Tools**](https://promptifytools.com/) | **Prompt engineering desktop integration startup, window everywhere in OS** | React, TypeScript, Vite |
-
+| [Stratos2](https://github.com/VictorBaumgartner/Stratos2) | Talent Tech Hiring feature | ⚛️ Next.js, ⚛️ React, 🔵 TypeScript | 
+| [Geolift SEO Master](https://github.com/VictorBaumgartner/geolift_seo_master) | SEO optimization tool using geolocation | 🐍 Python, ✨ FastAPI |
+| [Multithreading Crawl4AI](https://github.com/VictorBaumgartner/multithreading_crawl4ai) | Web crawler extracting markdown | 🐍 Python, ⚡ FastAPI |
+| [Menu Extractor](https://github.com/VictorBaumgartner/menu-extractor) | OCR + LLM menu extraction tool | 🐍 Python, 🖼️ Gradio | 
+| [QA Loop AI Services](https://github.com/VictorBaumgartner/qa_loop_ai_services) | AI QA automation | 🐍 Python, ✨ FastAPI | 
+| [Get Business Details From Places](https://github.com/VictorBaumgartner/getBusinessDetailsFromPlaces) | Business info extraction | 🐍 Python | 
+| [Authentic Text](https://github.com/VictorBaumgartner/authentic_text) | Humanizes text | 🐍 Python | 
+| [Yebow](https://github.com/VictorBaumgartner/Yebow) | Luxurious e-commerce project | 🔵 TypeScript, ⚛️ React | 
+| [LexExtract](https://github.com/VictorBaumgartner/LexExtract) | Auto-completion for legal docs | 🐍 Python | 
+| [MapsFindr](https://github.com/VictorBaumgartner/MapsFindr) | Location info via Google Maps | 🐍 Python, 🖼️ Gradio | 
+| [**Inferentia**](https://inferentia.io/) | **Promoting AI/ML API provider website (fastest, best model variety, affiliate links!)** | 🌐 HTML, 🎨 CSS, 📜 JavaScript | 
+| [**Promptify Tools**](https://promptifytools.com/) | **Prompt engineering desktop integration startup, window everywhere in OS** | ⚛️ React, 🔵 TypeScript, ⚡ Vite |
 </div>
 
 ---
